@@ -1,0 +1,6 @@
+C:\Users\JESIKA NAINGGOLAN\Documents\Visual Studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\bin\Debug\Aplikasi Kalkulator.exe.config
+C:\Users\JESIKA NAINGGOLAN\Documents\Visual Studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\bin\Debug\Aplikasi Kalkulator.exe
+C:\Users\JESIKA NAINGGOLAN\Documents\Visual Studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\bin\Debug\Aplikasi Kalkulator.pdb
+C:\Users\JESIKA NAINGGOLAN\Documents\Visual Studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\obj\Debug\Aplikasi Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\JESIKA NAINGGOLAN\Documents\Visual Studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\obj\Debug\Aplikasi Kalkulator.exe
+C:\Users\JESIKA NAINGGOLAN\Documents\Visual Studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\obj\Debug\Aplikasi Kalkulator.pdb
